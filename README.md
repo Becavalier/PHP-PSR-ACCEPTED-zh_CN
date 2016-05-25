@@ -1,0 +1,2 @@
+# PHP-PSR-ACCEPTED-
+PHP-PSR [ACCEPTED] 规范中文翻译
