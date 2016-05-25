@@ -10,4 +10,10 @@ PHP-PSR [ACCEPTED] 规范中文翻译
 
 >##英文PSR
 >###[PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
+>###[PSR-2: Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
+>###[PSR-3: Logger Interface](http://www.php-fig.org/psr/psr-3/)
+>###[PSR-4: Autoloading Standard](http://www.php-fig.org/psr/psr-4/)
+>###[PSR-6: Caching Interface](http://www.php-fig.org/psr/psr-6/)
+>###[PSR-7: HTTP Message Interface](http://www.php-fig.org/psr/psr-7/)
+
 
