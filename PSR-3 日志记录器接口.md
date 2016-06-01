@@ -198,7 +198,7 @@ interface LoggerInterface
 }
 ```
 
-##4、`Psr\Log\LoggerAwareInterface`
+##4、Psr\Log\LoggerAwareInterface
 
 ```php
 <?php
@@ -220,7 +220,7 @@ interface LoggerAwareInterface
 }
 ```
 
-##5、`Psr\Log\LogLevel`
+##5、Psr\Log\LogLevel
 
 ```php
 <?php
